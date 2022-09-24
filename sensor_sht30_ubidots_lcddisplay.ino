@@ -17,7 +17,7 @@ PubSubClient client(ubidots);
 
 #define WIFISSID "KMTek" // Nama Hotspot / WiFi
 #define PASSWORD "KMTek123" // Password WiFi
-#define TOKEN "BBFF-eI1EqsfXanOul1dORfcIWmE412Z2fQ"   // Ubidots TOKEN
+#define TOKEN "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"   // Ubidots TOKEN
 #define MQTT_CLIENT_NAME "SENSOR SHT30" //mqtt client name / Device name/ custom
 
 #define VARIABLE_LABEL_1 "temperature" // Nama Variabel 1
